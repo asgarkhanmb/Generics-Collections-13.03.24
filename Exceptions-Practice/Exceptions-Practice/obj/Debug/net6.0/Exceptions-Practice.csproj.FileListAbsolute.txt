@@ -1,0 +1,14 @@
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\bin\Debug\net6.0\Exceptions-Practice.exe
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\bin\Debug\net6.0\Exceptions-Practice.deps.json
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\bin\Debug\net6.0\Exceptions-Practice.runtimeconfig.json
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\bin\Debug\net6.0\Exceptions-Practice.dll
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\bin\Debug\net6.0\Exceptions-Practice.pdb
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\obj\Debug\net6.0\Exceptions-Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\obj\Debug\net6.0\Exceptions-Practice.AssemblyInfoInputs.cache
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\obj\Debug\net6.0\Exceptions-Practice.AssemblyInfo.cs
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\obj\Debug\net6.0\Exceptions-Practice.csproj.CoreCompileInputs.cache
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\obj\Debug\net6.0\Exceptions-Practice.dll
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\obj\Debug\net6.0\refint\Exceptions-Practice.dll
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\obj\Debug\net6.0\Exceptions-Practice.pdb
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\obj\Debug\net6.0\Exceptions-Practice.genruntimeconfig.cache
+C:\Users\Əsgərxan\Desktop\Exceptions-Practice\Exceptions-Practice\obj\Debug\net6.0\ref\Exceptions-Practice.dll

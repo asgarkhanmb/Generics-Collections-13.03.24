@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\New folder\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DED86D-56C5-457D-8D12-00605CAC3E7A}|Generics\\Generics.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\new folder\\generics\\generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DED86D-56C5-457D-8D12-00605CAC3E7A}|Generics\\Generics.csproj|solutionrelative:generics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DED86D-56C5-457D-8D12-00605CAC3E7A}|Generics\\Generics.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\new folder\\generics\\generics\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DED86D-56C5-457D-8D12-00605CAC3E7A}|Generics\\Generics.csproj|solutionrelative:generics\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DED86D-56C5-457D-8D12-00605CAC3E7A}|Generics\\Generics.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\new folder\\generics\\generics\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DED86D-56C5-457D-8D12-00605CAC3E7A}|Generics\\Generics.csproj|solutionrelative:generics\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DED86D-56C5-457D-8D12-00605CAC3E7A}|Generics\\Generics.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\new folder\\generics\\generics\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DED86D-56C5-457D-8D12-00605CAC3E7A}|Generics\\Generics.csproj|solutionrelative:generics\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DED86D-56C5-457D-8D12-00605CAC3E7A}|Generics\\Generics.csproj|c:\\users\\\u0259sg\u0259rxan\\desktop\\new folder\\generics\\generics\\datalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DED86D-56C5-457D-8D12-00605CAC3E7A}|Generics\\Generics.csproj|solutionrelative:generics\\datalist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\New folder\\Generics\\Generics\\Book.cs",
+              "RelativeDocumentMoniker": "Generics\\Book.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\New folder\\Generics\\Generics\\Book.cs",
+              "RelativeToolTip": "Generics\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:04:02.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\New folder\\Generics\\Generics\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Generics\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\New folder\\Generics\\Generics\\BaseEntity.cs",
+              "RelativeToolTip": "Generics\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T17:00:08.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\New folder\\Generics\\Generics\\Repository.cs",
+              "RelativeDocumentMoniker": "Generics\\Repository.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\New folder\\Generics\\Generics\\Repository.cs",
+              "RelativeToolTip": "Generics\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:59:08.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\New folder\\Generics\\Generics\\Program.cs",
+              "RelativeDocumentMoniker": "Generics\\Program.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\New folder\\Generics\\Generics\\Program.cs",
+              "RelativeToolTip": "Generics\\Program.cs",
+              "ViewState": "AQIAAPMAAAAAAAAAAAAqwAYBAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:51:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataList.cs",
+              "DocumentMoniker": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\New folder\\Generics\\Generics\\DataList.cs",
+              "RelativeDocumentMoniker": "Generics\\DataList.cs",
+              "ToolTip": "C:\\Users\\\u018Fsg\u0259rxan\\Desktop\\New folder\\Generics\\Generics\\DataList.cs",
+              "RelativeToolTip": "Generics\\DataList.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T16:49:53.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
